@@ -1,0 +1,16 @@
+.banner{
+    background-image: url('hero_duh_1500x430_0.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    
+}
+
+.intro{
+    margin-top: 200px;
+    color: black;
+}
+
+.span {
+    color: red;
+}
